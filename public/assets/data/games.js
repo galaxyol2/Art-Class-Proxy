@@ -176,7 +176,7 @@ var games = [
   },
   {
     id: 'retrobowl',
-    url: 'https://retrobowl25.com/',
+    url: 'https://retrobowl25.com',
     title: 'Retro Bowl',
     image: 'https://play-lh.googleusercontent.com/WRM5Y1xZmzcCP1YtO5zl6G2g7CU5c5ZfjX4UVrgi1bpNgkfy-wuB-bQx3kkeRfaGYQ'
   },
